@@ -27,3 +27,5 @@ Note:
 This is a personal project for learning and demonstration purposes. Always ensure the security of your master password and generated key file.
 
 Feel free to contribute, suggest improvements, or use it for educational purposes!
+
+**More updates coming soon! Feel free to report any issues!**
