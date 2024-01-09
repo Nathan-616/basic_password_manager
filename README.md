@@ -10,15 +10,19 @@ Secure password storage using encryption
 Add, view, and manage passwords for various accounts
 Master password-based access control
 Command-line interface for easy interaction
+
 Technology Stack:
 
-Python
-cryptography library
+- Python
+- cryptography library
+
 How to Use:
 
 Clone or download the repository.
 Run the Python script in your preferred environment.
+Choose and enter a masterpassword(only once as you will need this password to access your passwords)
 Follow the on-screen instructions to add/view passwords.
+
 Note:
 This is a personal project for learning and demonstration purposes. Always ensure the security of your master password and generated key file.
 
